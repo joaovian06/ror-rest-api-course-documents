@@ -1,0 +1,6 @@
+- conceitos de RESTful APIs
+  - constraint REST
+  - JSON
+  - modelos de maturidade de Richardson
+  - verbos/métodos HTTP
+  - cURL, Postman
