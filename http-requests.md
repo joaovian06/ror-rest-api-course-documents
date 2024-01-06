@@ -1,0 +1,15 @@
+- requisicoes - request
+- resposta - response
+
+- requisicao e a forma como nos comunicao ao servidor
+  - possui URL, params, HTTP methods/verbs, Header fields, additional data
+- request
+  - URL -> Required
+  - Params -> optional
+    - /contacts?param1=asdokasodk&param2=asdasokd
+  - HTTP method -> Required
+    - get, post, delete, patch
+  - Header Fields -> optional
+    - accept: application/json
+  - extra data -> optional
+    - JSON { name: "John }
