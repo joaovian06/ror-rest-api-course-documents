@@ -1,0 +1,6 @@
+- recursos
+  - recursos/resources sao elementos de informacao
+  - e.g. contatos, usuarios, posts etc.
+  - criado no plural
+  - coisas/objetos
+  - no rails criar 6 rotas
