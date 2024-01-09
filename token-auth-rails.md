@@ -19,3 +19,9 @@ end
 
 curl request
 curl http://localhost:3000/kinds -H "Accept: application/vnd.api+json" -H "Authorization: Token secret123"
+
+Timing Attack
+
+https://en.wikipedia.org/wiki/Timing_attack
+
+https://rubsphp.blogspot.com.br/2014/03/prevencao-de-timing-attack-no-php.html?m=0
