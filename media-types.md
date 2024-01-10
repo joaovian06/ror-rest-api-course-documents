@@ -21,7 +21,7 @@ MIME type equivalente a media type e pode ser tambem encontrado como content typ
 
 ```ruby
 # application_controller.rb
-before_filter :ensure_json_request
+before_action :ensure_json_request
 
 def ensure_json_request
     return if request.headers["Accept"] =~ /vnd\.api\+json/
